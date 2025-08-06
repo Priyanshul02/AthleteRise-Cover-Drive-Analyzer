@@ -80,5 +80,4 @@ def run_analysis(video_path):
     else:
         print("Pose landmarks not detected.")
 
-# Uncomment this to run directly
-# run_analysis("cover_drive.mp4")
+
